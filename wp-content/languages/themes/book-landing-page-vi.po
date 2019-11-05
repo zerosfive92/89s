@@ -1,0 +1,583 @@
+# Translation of Themes - Book Landing Page in Vietnamese
+# This file is distributed under the same license as the Themes - Book Landing Page package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-29 10:32:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Book Landing Page\n"
+
+#. Description of the plugin/theme
+msgid "Book Landing Page is a beautiful WordPress theme suitable for creating landing page for your book. The home page is thoughtfully designed to increase leads and purchase of the book. The theme is easy to use and doesn’t require coding experienc. You can launch your book in less than 10 minutes with Book Landing Page and market your book. Book Landing Page is mobile friendly. It is also translation ready."
+msgstr "Book Landing Page là một giao diện WordPress đẹp phù hợp để tạo ra một trang web dành riêng cho sách của bạn. Trang chủ được thiết kế chu đáo để phát triển và mua sách. Giao diện rất dễ sử dụng và không yêu cầu trải nghiệm mã hóa. Bạn có thể khởi chạy cuốn sách của bạn trong ít hơn 10 phút với Book Landing Page và tiếp thị sách của bạn . Book Landing Page là điện thoại di động thân thiện. Nó cũng là bản dịch sẵn sàng."
+
+#. Theme Name of the plugin/theme
+msgid "Book Landing Page"
+msgstr "Book Landing Page"
+
+#: inc/woocommerce-functions.php:39
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "Thanh bên hiển thị chỉ trong các trang woocommerce."
+
+#: inc/woocommerce-functions.php:37
+msgid "Shop Sidebar"
+msgstr "Sidebar cửa hàng"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Trang chủ"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:45
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục đọc %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:29 template-parts/content.php:51
+msgid "Pages:"
+msgstr "Trang:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm kiếm có thể giúp đỡ."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, không có nội dung nào khớp với yêu cầu tìm kiếm của bạn. Hãy thử lại với các từ khóa khác."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng đăng bài viết đầu tiên chưa? <a href=\"%1$s\">Hãy bắt đầu tại đây</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không có kết quả"
+
+#: inc/widgets/widgets.php:27
+msgid "Subscription Widget"
+msgstr "Đăng ký Widget"
+
+#: inc/widgets/widgets.php:17
+msgid "Add widgets here."
+msgstr "Thêm widget ở đây."
+
+#: inc/widgets/widgets.php:15
+msgid "Right Sidebar"
+msgstr "Sidebar bên phải"
+
+#: inc/widgets/widget-social-links.php:118
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/widgets/widget-social-links.php:65
+#: inc/widgets/widget-social-links.php:123
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/widgets/widget-social-links.php:63
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/widgets/widget-social-links.php:61
+#: inc/widgets/widget-social-links.php:113
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/widgets/widget-social-links.php:59
+#: inc/widgets/widget-social-links.php:108
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/widgets/widget-social-links.php:57
+#: inc/widgets/widget-social-links.php:103
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/widgets/widget-social-links.php:55
+#: inc/widgets/widget-social-links.php:98
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/widgets/widget-social-links.php:26
+msgid "A Social Links Widget"
+msgstr "Tiện ích liên kết mạng xã hội"
+
+#: inc/widgets/widget-social-links.php:25
+msgid "RARA: Social Links"
+msgstr "RARA: Liên kết mạng xã hội"
+
+#: inc/widgets/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr "Widget bài viết gần đây"
+
+#: inc/widgets/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr "RARA: Bài viết gần đây"
+
+#: inc/widgets/widget-popular-post.php:124
+#: inc/widgets/widget-recent-post.php:120
+msgid "Show Post Date"
+msgstr "Hiển thị ngày bài viết"
+
+#: inc/widgets/widget-popular-post.php:113
+#: inc/widgets/widget-recent-post.php:109
+msgid "Number of Posts"
+msgstr "Số bài viết"
+
+#: inc/widgets/widget-popular-post.php:108
+#: inc/widgets/widget-recent-post.php:104
+#: inc/widgets/widget-social-links.php:93
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/widgets/widget-popular-post.php:26
+msgid "A Popular Post Widget"
+msgstr "Widget bài viết phổ biến"
+
+#: inc/widgets/widget-popular-post.php:25
+msgid "RARA: Popular Post"
+msgstr "RARA: Bài viết phổ biến"
+
+#: inc/widgets/widget-featured-post.php:116
+#: inc/widgets/widget-popular-post.php:119
+#: inc/widgets/widget-recent-post.php:115
+msgid "Show Post Thumbnail"
+msgstr "Hiển thị hình thu nhỏ bài viết"
+
+#: inc/widgets/widget-featured-post.php:110
+msgid "Read More Text"
+msgstr "Đọc thêm Văn bản"
+
+#: inc/widgets/widget-featured-post.php:100
+msgid "Posts"
+msgstr "Bài viết"
+
+#. translators: %s: Name of current post.
+#: inc/widgets/widget-featured-post.php:95
+#: inc/widgets/widget-featured-post.php:135 template-parts/content.php:36
+#: template-parts/content.php:57
+msgid "Read More"
+msgstr "Đọc tiếp"
+
+#: inc/widgets/widget-featured-post.php:83
+msgid "--Choose--"
+msgstr "--Chọn--"
+
+#: inc/widgets/widget-featured-post.php:26
+msgid "A Featured Post Widget"
+msgstr "Widget bài viết nổi bật"
+
+#: inc/widgets/widget-featured-post.php:25
+msgid "RARA: Featured Post"
+msgstr "RARA: Bài viết nổi bật"
+
+#: inc/template-functions.php:421
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/template-functions.php:421
+msgid "Powered by %s"
+msgstr "Được hỗ trợ bởi %s"
+
+#. #-#-#-#-#  book-landing-page.pot (Book Landing Page 1.0.8)  #-#-#-#-#
+#. Theme URI of the plugin/theme
+#: inc/template-functions.php:420
+msgid "http://raratheme.com/wordpress-themes/book-landing-page/"
+msgstr "http://raratheme.com/wordpress-themes/book-landing-page/"
+
+#: inc/template-functions.php:417
+msgid "Copyright &copy;&nbsp;"
+msgstr "Bản quyền & bản sao & nbsp;"
+
+#: inc/template-functions.php:336
+msgid "About Admin"
+msgstr "Giới thiệu Admin"
+
+#: inc/template-functions.php:242
+msgid "Search Results for %s"
+msgstr "Tìm kiếm kết quả cho %s"
+
+#: inc/template-functions.php:209
+msgid "Page"
+msgstr "Trang"
+
+#: inc/template-functions.php:200
+msgid "404 Error - Page not Found"
+msgstr "Lỗi 404 - Không tìm thấy trang"
+
+#: inc/template-functions.php:134
+msgid "Search Result"
+msgstr "Tìm kết quả"
+
+#: inc/metabox.php:42
+msgid "Choose Sidebar Template"
+msgstr "Chọn Mẫu Sidebar"
+
+#: inc/metabox.php:30
+msgid "No Sidebar"
+msgstr "Không có Sidebar"
+
+#: inc/metabox.php:25
+msgid "Right Sidebar(default)"
+msgstr "Sidebar bên phải (mặc định)"
+
+#: inc/metabox.php:13
+msgid "Sidebar Layout"
+msgstr "Bố cục Sidebar"
+
+#: inc/extras.php:141
+msgid "<span class=\"fa fa-angle-double-right\"></span>"
+msgstr "<span class=\"fa fa-angle-double-right\"></span>"
+
+#: inc/extras.php:140
+msgid "<span class=\"fa fa-angle-double-left\"></span>"
+msgstr "<span class=\"fa fa-angle-double-left\"></span>"
+
+#. translators: %s: Name of current post
+#: inc/extras.php:91 template-parts/content-page.php:40
+msgid "Edit %s"
+msgstr "Sửa %s"
+
+#: inc/extras.php:82
+msgctxt "post author"
+msgid "By %s"
+msgstr "Bởi %s"
+
+#. translators: %s: post title
+#: inc/extras.php:65
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Để lại bình luận<span class=\"screen-reader-text\"> on %s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/extras.php:49
+msgid ", "
+msgstr ", "
+
+#: inc/extras.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Đăng trên %s"
+
+#: inc/customizer/home.php:17
+msgid "Customize Home Page Settings"
+msgstr "Tùy chỉnh Cài đặt Trang chủ"
+
+#: inc/customizer/home.php:16
+msgid "Home Page Settings"
+msgstr "Cài đặt Trang chủ"
+
+#: inc/customizer/home/testimonial.php:108
+msgid "Select Testimonial Post Two"
+msgstr "Chọn Bài kiểm tra hai"
+
+#: inc/customizer/home/testimonial.php:88
+msgid "Select Testimonial Post One"
+msgstr "Chọn Chứng nhận Đăng Một"
+
+#: inc/customizer/home/testimonial.php:70
+msgid "Testimonial Section Content"
+msgstr "Nội dung phần Chứng thực"
+
+#: inc/customizer/home/testimonial.php:52
+msgid "Testimonial Section Title"
+msgstr "Tiêu đề Tiêu đề Chứng chỉ"
+
+#: inc/customizer/home/testimonial.php:34
+msgid "Enable Testimonial Section"
+msgstr "Bật phần Chứng thực"
+
+#: inc/customizer/home/testimonial.php:16
+msgid "Testimonial Section"
+msgstr "Mục Chứng thực"
+
+#: inc/customizer/home/tabmenu.php:165
+msgid "Select Post Five"
+msgstr "Chọn Năm Bài viết"
+
+#: inc/customizer/home/tabmenu.php:146
+msgid "Select Post Four"
+msgstr "Chọn Bốn Bài viết"
+
+#: inc/customizer/home/tabmenu.php:127
+msgid "Select Post Three"
+msgstr "Chọn Ba Bài viết"
+
+#: inc/customizer/home/tabmenu.php:108
+msgid "Select Post Two"
+msgstr "Chọn Hai Bài Viết"
+
+#: inc/customizer/home/tabmenu.php:88
+msgid "Select Post One"
+msgstr "Chọn Một Bài Viết"
+
+#: inc/customizer/home/tabmenu.php:70
+msgid "Sample Menu Section Content"
+msgstr "Mẫu Menu Phần Nội dung"
+
+#: inc/customizer/home/tabmenu.php:52
+msgid "Sample Menu Section Title"
+msgstr "Tiêu đề Tiêu đề của Menu Mẫu"
+
+#: inc/customizer/home/tabmenu.php:34
+msgid "Enable Sample Menu"
+msgstr "Bật Trình đơn Mẫu"
+
+#: inc/customizer/home/tabmenu.php:16
+msgid "Sample Menu Settings"
+msgstr "Cài đặt Menu Mẫu"
+
+#: inc/customizer/home/subscribe.php:35
+msgid "Newsletters plugin must be activated for this section to be enable. "
+msgstr "Plugin bản tin phải được kích hoạt để phần này được cho phép."
+
+#: inc/customizer/home/subscribe.php:34
+msgid "Enable Subscribe"
+msgstr "Kích hoạt tính năng Theo dõi"
+
+#: inc/customizer/home/subscribe.php:16
+msgid "Subscribe Settings"
+msgstr "Cài đặt Đăng ký"
+
+#: inc/customizer/home/review.php:89
+msgid "Review Video Embed Link"
+msgstr "Đánh giá video nhúng Liên kết"
+
+#: inc/customizer/home/review.php:70
+msgid "Review Section Content"
+msgstr "Nội dung bài đánh giá"
+
+#: inc/customizer/home/review.php:52
+msgid "Review Section Title"
+msgstr "Tiêu đề Mục đánh giá"
+
+#: inc/customizer/home/review.php:34
+msgid "Enable Review Section"
+msgstr "Bật Phần Xem lại"
+
+#: inc/customizer/home/review.php:16
+msgid "Review Section"
+msgstr "Phần đánh giá"
+
+#: inc/customizer/home/promotional.php:89
+msgid "Promotional Section Button Text"
+msgstr "Văn bản Nút Phiếu Khuyến mại"
+
+#: inc/customizer/home/promotional.php:71
+msgid "Promotional Section Button Link"
+msgstr "Liên kết Nút Phiếu Quảng cáo"
+
+#: inc/customizer/home/promotional.php:34
+msgid "Enable Promotional Section"
+msgstr "Bật phần Khuyến mại"
+
+#: inc/customizer/home/promotional.php:16
+msgid "Promotional Section"
+msgstr "Khuyến mại"
+
+#: inc/customizer/home/features.php:184
+msgid "Select Features Post Six"
+msgstr "Chọn các tính năng bài viết số sáu"
+
+#: inc/customizer/home/features.php:165
+msgid "Select Feature Post Five"
+msgstr "Chọn tính năng đăng Năm"
+
+#: inc/customizer/home/features.php:146
+msgid "Select Feature Post Four"
+msgstr "Chọn tính năng đăng bốn"
+
+#: inc/customizer/home/features.php:127
+msgid "Select Feature Post Three"
+msgstr "Chọn tính năng đăng ba"
+
+#: inc/customizer/home/features.php:108
+msgid "Select Feature Post Two"
+msgstr "Chọn tính năng đăng hai"
+
+#: inc/customizer/home/features.php:89
+msgid "Select Feature Post One"
+msgstr "Chọn tính năng Đăng một"
+
+#: inc/customizer/home/features.php:71
+msgid "Features Section Content"
+msgstr "Tính năng Nội dung phần"
+
+#: inc/customizer/home/features.php:52
+msgid "Features Section Title"
+msgstr "Tính năng tiêu đề mục"
+
+#: inc/customizer/home/features.php:34
+msgid "Enable Features Section"
+msgstr "Bật tính năng Mục"
+
+#: inc/customizer/home/features.php:16
+msgid "Features Section"
+msgstr "Mục tính năng"
+
+#: inc/customizer/home/banner.php:109 inc/customizer/home/promotional.php:109
+msgid "Upload Accepted Cards Image"
+msgstr "Tải hình ảnh thẻ đã chấp nhận"
+
+#: inc/customizer/home/banner.php:89
+msgid "Banner Section Button Link"
+msgstr "Liên kết Nút của Ban Quảng cáo"
+
+#: inc/customizer/home/banner.php:71
+msgid "Banner Section Button Text"
+msgstr "Văn bản Nút của Mục Ban Ngang"
+
+#: inc/customizer/home/banner.php:34
+msgid "Enable Banner Section"
+msgstr "Bật Mục quảng cáo"
+
+#: inc/customizer/home/banner.php:16
+msgid "Banner Section"
+msgstr "Mục Quảng Cáo"
+
+#: inc/customizer/home/about.php:107 inc/customizer/home/banner.php:52
+#: inc/customizer/home/promotional.php:52 inc/customizer/home/review.php:107
+msgid "Select Post"
+msgstr "Chọn Bài viết"
+
+#: inc/customizer/home/about.php:89
+msgid "About Video Embed Link"
+msgstr "Giới thiệu về Video Nhúng Liên kết"
+
+#: inc/customizer/home/about.php:70
+msgid "About Section Content"
+msgstr "Giới thiệu nội dung của phần"
+
+#: inc/customizer/home/about.php:52
+msgid "About Section Title"
+msgstr "Giới thiệu Tiêu đề Mục"
+
+#: inc/customizer/home/about.php:34
+msgid "Enable About Section"
+msgstr "Bật Mục Giới Thiệu"
+
+#: inc/customizer/home/about.php:16
+msgid "About Section"
+msgstr "Mục Giới thiệu"
+
+#: inc/customizer/default.php:25
+msgid "Default section provided by wordpress customizer."
+msgstr "Phần mặc định được cung cấp bởi wordpress customizer."
+
+#: inc/customizer/default.php:24
+msgid "Default Settings"
+msgstr "Thiết lập mặc định"
+
+#: inc/customizer/customizer.php:16
+msgid "Choose Post"
+msgstr "Chọn bài viết"
+
+#: inc/customizer/custom.php:34
+msgid "Put your custom CSS"
+msgstr "Đặt CSS tuỳ chỉnh của bạn"
+
+#: inc/customizer/custom.php:32
+msgid "Custom CSS"
+msgstr "CSS tùy chỉnh"
+
+#: inc/customizer/custom.php:14
+msgid "Custom CSS Settings"
+msgstr "Cài đặt CSS Tuỳ chỉnh"
+
+#: inc/customizer/breadcrumb.php:84
+msgid "Breadcrumb Separator"
+msgstr "Đường dẫn Phân cách"
+
+#: inc/template-functions.php:107
+msgid ">"
+msgstr ">"
+
+#: inc/customizer/breadcrumb.php:66
+msgid "Breadcrumb Home Text"
+msgstr "Đường dẫn Trang chủ Tiêu đề"
+
+#: inc/customizer/breadcrumb.php:58 inc/template-functions.php:108
+msgid "Home"
+msgstr "Trang Chủ"
+
+#: inc/customizer/breadcrumb.php:48
+msgid "Show current"
+msgstr "Hiển thị hiện tại"
+
+#: inc/customizer/breadcrumb.php:30
+msgid "Enable Breadcrumb"
+msgstr "Kích hoạt tính năng Đường dẫn"
+
+#: inc/customizer/breadcrumb.php:12
+msgid "Breadcrumb Settings"
+msgstr "Cài đặt Đường dẫn"
+
+#: inc/custom-functions.php:300
+msgid "Submit"
+msgstr "Gửi"
+
+#: inc/custom-functions.php:298
+msgid "Comment"
+msgstr "Bình luận"
+
+#: inc/custom-functions.php:283
+msgid "Website"
+msgstr "Website"
+
+#: inc/custom-functions.php:281
+msgid "Email*"
+msgstr "Email*"
+
+#: inc/custom-functions.php:279
+msgid "Name*"
+msgstr "Tên*"
+
+#: inc/custom-functions.php:48
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: inc/custom-functions.php:47
+msgid "Primary"
+msgstr "Sơ cấp"
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Đã đóng bình luận."
+
+#: comments.php:48
+msgid "Newer Comments"
+msgstr "Các bình luận mới hơn"
+
+#: comments.php:47
+msgid "Older Comments"
+msgstr "Các bình luận cũ hơn"
+
+#: comments.php:44
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:29
+msgid "Comments"
+msgstr "Bình luận"
+
+#: 404.php:19
+msgid "Can&rsquo;t find what you need? Take a moment and do a search below or start from our <a href=\"%s\">Homepage</a>"
+msgstr "Không thể tìm thấy những gì bạn cần? Dành ít phút và thực hiện tìm kiếm dưới đây hoặc bắt đầu từ<a href=\"%s\">Trang chủ</a>"
+
+#: 404.php:13
+msgid "Sorry, The Page Not Found"
+msgstr "Xin lỗi, Trang Không tìm thấy"
+
+#: 404.php:12
+msgid "404"
+msgstr "404"
+
+#. Author URI of the plugin/theme
+msgid "http://raratheme.com/"
+msgstr "http://raratheme.com/"
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr "Rara Theme"

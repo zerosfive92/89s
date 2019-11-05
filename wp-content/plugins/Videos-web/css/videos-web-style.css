@@ -1,0 +1,52 @@
+.small-label
+{
+    color:#797979;
+    font-size: 12px;
+}
+a {
+    cursor: pointer;
+}
+.small-text-content
+{
+    color:#343434;
+    font-size: 14px;
+}
+.videos-item{
+    background: #000;
+    padding: 15px;
+}
+.videos-item > .col-12
+{
+    margin-bottom: 15px;
+}
+.videos-item-vid
+{
+    background-color: #9f0808;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.videos-item-des
+{
+    background-color: #000;
+    color: #FFF;
+}
+#primary .page .entry-content .videos-item .videos-item-des h3{
+    font-size: 20px;
+    color: #FFF;
+    font-weight: bold;
+}
+#primary .page .entry-content .videos-item .videos-item-des .videos-item-des-info .small-text-content{
+    font-weight: bold;
+    color: #FFF;
+}
+#primary .page .entry-content .videos-item .videos-item-des .videos-item-des-content{
+    font-size: 14px;
+}
+
+.section-container
+{
+    margin-top: 15px;
+    padding-top: 15px;
+    color: #9f0808;
+    border-top-style: double;
+}
